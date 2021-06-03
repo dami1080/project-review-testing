@@ -9,22 +9,22 @@
   }
 }
 
-  #title {
-    background-color: #efefea;
+#title {
+  background-color: #efefea;
 }
 
-  .title-heading {
-    margin-top: 100px;
-    padding-top: 50px;
+.title-heading {
+  margin-top: 100px;
+  padding-top: 50px;
 }
 
-  .title-subheading {
-    margin-top: 40px;
-    padding-bottom: 20px;
-    font-size: 1em;
+.title-subheading {
+  margin-top: 40px;
+  padding-bottom: 20px;
+  font-size: 1em;
 }
 
-  #image {
-    width: 100%;
-    margin: 0 auto;
+#image {
+  width: 100%;
+  margin: 0 auto;
 }
